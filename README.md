@@ -1,7 +1,7 @@
 ```
-# Запустить
+# Run
 $ docker-compose up -d
 
-# Снести
+# Remove
 $ docker-compose down --volumes
 ```
